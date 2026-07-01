@@ -1,31 +1,4 @@
 Server ID: Unknown
 Renew status: Failed
-Last renewal time: 2026-06-29 02:07:48
-Error: Timeout error: Message: timeout: Timed out receiving message from renderer: 29.936
-  (Session info: chrome=150.0.7871.24)
-Stacktrace:
-	chromedriver!GetHandleVerifier [0x7ff7851c3fa5+14925]
-	chromedriver!GetHandleVerifier [0x7ff7851c4000+14980]
-	chromedriver!(No symbol) [0x7ff784d0793d]
-	chromedriver!(No symbol) [0x7ff784cf4449]
-	chromedriver!(No symbol) [0x7ff784cf4131]
-	chromedriver!(No symbol) [0x7ff784cf1e01]
-	chromedriver!(No symbol) [0x7ff784cf273f]
-	chromedriver!(No symbol) [0x7ff784d01e1a]
-	chromedriver!(No symbol) [0x7ff784d18a77]
-	chromedriver!(No symbol) [0x7ff784d2093a]
-	chromedriver!(No symbol) [0x7ff784cf2f01]
-	chromedriver!(No symbol) [0x7ff784d187a5]
-	chromedriver!(No symbol) [0x7ff784daf71a]
-	chromedriver!(No symbol) [0x7ff784d5401c]
-	chromedriver!(No symbol) [0x7ff784d54f43]
-	chromedriver!GetHandleVerifier [0x7ff7857a7591+5f7f11]
-	chromedriver!GetHandleVerifier [0x7ff7857a1902+5f2282]
-	chromedriver!GetHandleVerifier [0x7ff7857c7115+617a95]
-	chromedriver!GetHandleVerifier [0x7ff7851e1dce+3274e]
-	chromedriver!GetHandleVerifier [0x7ff7851ea82c+3b1ac]
-	chromedriver!GetHandleVerifier [0x7ff7851cd744+1e0c4]
-	chromedriver!GetHandleVerifier [0x7ff7851cd8d4+1e254]
-	chromedriver!GetHandleVerifier [0x7ff7851b1447+1dc7]
-	KERNEL32!BaseThreadInitThunk [0x7fff5fa1e8d7+17]
-	ntdll!RtlUserThreadStart [0x7fff6058c53c+2c]
+Last renewal time: 2026-07-01 02:07:52
+Error: An error occurred: Unable to login to dashboard
